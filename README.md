@@ -17,17 +17,7 @@ An AI-powered voice assistant named Sophie that automates hotel booking confirma
 
 ---
 
-## Project Structure
-
-Live_kit/
-├── agent.py              # Main AI agent script
-├── tools.py              # Tool functions (get_weather, search_web)
-├── prompt.py             # Agent and session instructions
-├── requirements.txt      # Python dependencies
-├── .gitignore            # Ignored files (venv, .env, etc.)
-├── LICENSE
-├── gen_token.py          # Optional helper scripts
-└── livekit-server.exe    # LiveKit server executable
+<pre> Live_kit/ agent.py # Main AI agent script tools.py # Tool functions (get_weather, search_web) prompt.py # Agent and session instructions requirements.txt # Python dependencies .gitignore # Ignored files (venv, .env, etc.) LICENSE gen_token.py # Optional helper scripts livekit-server.exe # LiveKit server executable </pre>
 
 
 ## Setup Instructions
